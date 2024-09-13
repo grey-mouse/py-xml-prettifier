@@ -1,0 +1,9 @@
+[project]
+name = "py-pretty-xml"
+version = "0.1.0"
+description = "XML prettifier in Python"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pre-commit>=3.8.0",
+]

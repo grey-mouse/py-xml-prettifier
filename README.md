@@ -1,1 +1,1 @@
-# py-xml-prettifier
+XML prettifier in Python
