@@ -3,6 +3,6 @@ repos:
     hooks:
       - id: py-xml-prettifier
         name: Py XML Prettifier
-        entry: python3 prettify_xml.py
+        entry: python3 ./prettify_xml.py
         language: system
         files: \.xml$
